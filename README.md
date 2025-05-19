@@ -7,3 +7,5 @@ Excursion is a clean and elegant HTML/CSS landing page designed to promote a tra
 📱 Highlights mobile availability (Coming soon!)
 🖼️ Stunning scenic imagery to captivate users
 📎 Simple and well-organized HTML/CSS structure
+
+live link of Excusrion project [https://samruddhi123-bit.github.io/Excursion/]
